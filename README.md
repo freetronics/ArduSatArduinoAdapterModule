@@ -1,8 +1,6 @@
 Freetronics ArduSat Arduino Adapter Module
 ==========================================
-Copyright 2012 Freetronics Pty Ltd  
-Freetronics site:  www.freetronics.com  
-Freetronics email: info@freetronics.com  
+Copyright 2012 Freetronics Pty Ltd   www.freetronics.com  
 
 CubeSat-compatible module that allows an Arduino or compatible board
 to be plugged in upside down. All Arduino headers and CubeSat bus
@@ -24,7 +22,7 @@ Features:
 
 More information is available at:
 
-  http://www.freetronics.com/asaam
+  http://www.freetronics.com.au/asaam
 
 
 INSTALLATION
